@@ -1,0 +1,5 @@
+SELECT TOP (1000) [IdProducto]
+      ,[NomProducto]
+      ,[IdGrupo]
+      ,[Precio]
+  FROM [UCB_VERDULEROS].[dbo].[Productos]
